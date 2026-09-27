@@ -1,2 +1,3 @@
 First sentence in the documentation.txt file
 Adding new functionnality in our document named documentation.txt
+Ajout dans le fichier documentation 
